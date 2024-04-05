@@ -1,5 +1,5 @@
-- # About Me
-- Hi I'm @vanshaj248
+# About Me
+Hi I'm @vanshaj248
 
 ## Interests
 ### Playing Guitar
@@ -12,9 +12,9 @@ I love the thrill of the game, the teamwork involved, and the satisfaction of im
 Whether it's shooting hoops with friends or playing in organized leagues, basketball is a big part of my life.
 
 ## Education
-- **Student at VIT Vellore University**
+**Student at VIT Vellore University**
 I am currently pursuing my B.Tech in Electrical and Computer Science Engineering at VIT Vellore University, where I am gaining valuable knowledge and skills in my chosen field of study
-. Being part of such a prestigious institution has been a rewarding experience, and I am committed to excelling academically while also exploring opportunities for personal and professional growth.
+Being part of such a prestigious institution has been a rewarding experience, and I am committed to excelling academically while also exploring opportunities for personal and professional growth.
 
 ## About
 I am a dedicated and enthusiastic individual who approaches life with a curious mindset and a thirst for knowledge.
