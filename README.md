@@ -1,6 +1,13 @@
 # About Me
 Hi I'm @vanshaj248
 
+## Skills
+### Embedded Systems Engineering
+Currently learning and pursuing to become an Embedde Systems Engineer
+
+### Data Science, AI and ML
+Integration of Embedded systems with  LLMs and big data analytics
+
 ## Interests
 ### Playing Guitar
 I have been playing guitar for several years now, and it's one of my greatest passions.
@@ -27,4 +34,5 @@ Email - vanshajshah376@gmail.com
         vanshajshah00@gmail.com
         vanshajashish.shah2023@vitstudent.ac.in
 Ig - _.vanshaj0_o
+Linkdin - www.linkedin.com/in/vanshajshah
 
