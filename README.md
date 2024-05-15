@@ -30,9 +30,10 @@ Whether it's diving into a new subject, taking on a challenging project, or enga
 Feel free to reach out to me if you share similar interests or if you'd like to connect!
 
 ## Reach me
-Email - vanshajshah376@gmail.com
+# Email - 
+        vanshajshah376@gmail.com
         vanshajshah00@gmail.com
         vanshajashish.shah2023@vitstudent.ac.in
-Ig - _.vanshaj0_o
-Linkdin - www.linkedin.com/in/vanshajshah
+# Ig - _.vanshaj0_o
+# Linkdin - www.linkedin.com/in/vanshajshah
 
